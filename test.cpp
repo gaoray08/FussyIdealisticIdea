@@ -2,9 +2,6 @@
 Each basket can only contain  10 eggs. How many baskets do I need?  */
 
 #include <iostream> 
-#include <cmath>
-#include <list>
-
 int main(){ 
     int x;
     int y;
